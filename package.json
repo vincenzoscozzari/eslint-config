@@ -7,9 +7,6 @@
   "exports": {
     ".": "./index.js"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "keywords": [
     "eslint",
     "flat-config",
